@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApplicationLearn</string>
+    <string name="login_me">Login Me</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="university">
+
+        <item>IUG</item>
+        <item>AUG</item>
+        <item>CAUS</item>
+    </string-array>
+</resources>
